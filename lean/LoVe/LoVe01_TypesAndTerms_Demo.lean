@@ -18,17 +18,17 @@ Proof assistants (also called interactive theorem provers)
 A selection of proof assistants, classified by logical foundations:
 
 * set theory: Isabelle/ZF, Metamath, Mizar;
-* simple type theory: HOL4, HOL Light, Isabelle/HOL;
-* **dependent type theory**: Agda, Coq, **Lean**, Matita, PVS.
+* simple type theory: HOL4, HOL Light, Isabelle/HOL, PVS;
+* **dependent type theory**: Agda, **Lean**, Matita, Rocq.
 
 
 ## Success Stories
 
 Mathematics:
 
-* the four-color theorem (in Coq);
-* the Kepler conjecture (in HOL Light and Isabelle/HOL);
-* the definition of perfectoid spaces (in Lean).
+* the four-color theorem;
+* the Kepler conjecture;
+* the definition of perfectoid spaces.
 
 Computer science:
 
