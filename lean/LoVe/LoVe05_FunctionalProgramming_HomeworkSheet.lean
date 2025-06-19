@@ -82,11 +82,6 @@ Hints:
 * The `linarith` tactic introduced in lecture 6 might be useful to reason about
   addition. -/
 
-/- PAUL: I can't see any reference to `linarith` in the file. Is this something you
-         mention in the lecture but not the demo file? It would be worth summarising
-         what it is, or referring to the Guide.
-         Actually, I just looked ahead, there is a comment in chapter 6. Maybe copy to here? -/
-
 #check mul_add
 #check add_mul
 

@@ -49,8 +49,8 @@ def someNonsense : (α → β → γ) → α → (α → γ) → β → γ :=
 /- ## Question 2: Typing Derivation
 
 Show the typing derivation for your definition of `C` above, on paper or using
-ASCII or Unicode art. You might find the characters `–` (to draw horizontal
-bars) and `⊢` useful. -/
+ASCII or Unicode art. Start with an empty context. You might find the
+characters `–` (to draw horizontal bars) and `⊢` useful. -/
 
 -- write your solution in a comment here or on paper
 

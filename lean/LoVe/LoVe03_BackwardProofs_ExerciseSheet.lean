@@ -19,7 +19,8 @@ namespace BackwardProofs
 
 /- ## Question 1: Connectives and Quantifiers
 
-1.1. Carry out the following proofs using basic tactics.
+1.1. Carry out the following proofs using basic tactics such as `intro`,
+`apply`, and `exact`.
 
 Hint: Some strategies for carrying out such proofs are described at the end of
 Section 3.3 in the Hitchhiker's Guide. -/

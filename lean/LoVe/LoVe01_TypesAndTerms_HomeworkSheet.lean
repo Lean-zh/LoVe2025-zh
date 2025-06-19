@@ -60,8 +60,8 @@ def weakPeirce : ((((α → β) → α) → α) → β) → β :=
 /- ## Question 2 (4 points): Typing Derivation
 
 Show the typing derivation for your definition of `B` above, using ASCII or
-Unicode art. You might find the characters `–` (to draw horizontal bars) and `⊢`
-useful.
+Unicode art. Start with an empty context. You might find the characters `–` (to
+draw horizontal bars) and `⊢` useful.
 
 Feel free to introduce abbreviations to avoid repeating large contexts `C`. -/
 

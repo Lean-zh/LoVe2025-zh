@@ -87,7 +87,7 @@ theorem exists_minimal_arg_helper (f : ℕ → ℕ) :
     ∀x m, f m = x → ∃n, ∀i, f n ≤ f i
   | x, m, eq =>
     by
-      sorry, sorry
+      sorry
 
 /- Now this interesting theorem falls off: -/
 
